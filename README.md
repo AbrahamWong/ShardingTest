@@ -366,4 +366,4 @@ mongo mongo-query-router:27017 -u mongo-admin -p --authenticationDatabase admin
 use wineMag
 db.wineCollection.getShardDistribution()
 ```
-![Hasil, menunjukkan bahwa terdapat 3 shard dan pembagian data cukup rata](img/res.jpg)
+![Hasil, menunjukkan bahwa terdapat 3 shard dan pembagian data cukup rata](img/res.JPG)
